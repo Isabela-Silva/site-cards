@@ -1,3 +1,3 @@
 # site-cards 🎨
 
-Link do meu site: site-cards.vercel.app/
+Link do meu site: https://site-cards.vercel.app
