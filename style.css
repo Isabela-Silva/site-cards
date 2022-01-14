@@ -242,7 +242,7 @@ footer span {
   justify-content: center;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 767px) {
   img {
     max-width: 60%;
   }
